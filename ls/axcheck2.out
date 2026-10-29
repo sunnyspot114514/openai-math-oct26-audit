@@ -1,0 +1,14 @@
+'OAI.Analysis.Fourier.LocalSmoothing.Comparator.euclidean_local_smoothing' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'OAI.Analysis.Fourier.LocalSmoothing.Comparator.bochner_riesz' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'OAI.Analysis.Fourier.LocalSmoothing.Comparator.spherical_restriction' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya_maximal' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'OAI.Analysis.Fourier.LocalSmoothing.Comparator.kakeya' depends on axioms: [propext, Classical.choice, Quot.sound]
+'OAI.Analysis.Fourier.LocalSmoothing.Comparator.stein_square' depends on axioms: [propext, Classical.choice, Quot.sound]

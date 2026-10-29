@@ -1,0 +1,364 @@
+2026-10-28T04:00:40+08:00 MemAvailable: 14064568 kB lean_procs=0
+0 avail=  22G
+2026-10-28T04:01:00+08:00 MemAvailable: 11743004 kB lean_procs=1 avail=  22G
+2026-10-28T04:01:20+08:00 MemAvailable: 11831968 kB lean_procs=0
+0 avail=  22G
+2026-10-28T04:01:40+08:00 MemAvailable: 9445040 kB lean_procs=4 avail=  22G
+2026-10-28T04:02:00+08:00 MemAvailable: 9426816 kB lean_procs=8 avail=  22G
+2026-10-28T04:02:20+08:00 MemAvailable: 8848848 kB lean_procs=7 avail=  22G
+2026-10-28T04:02:40+08:00 MemAvailable: 8659460 kB lean_procs=8 avail=  21G
+2026-10-28T04:03:00+08:00 MemAvailable: 8352152 kB lean_procs=8 avail=  21G
+2026-10-28T04:03:20+08:00 MemAvailable: 9690936 kB lean_procs=8 avail=  21G
+2026-10-28T04:03:40+08:00 MemAvailable: 8945736 kB lean_procs=7 avail=  21G
+2026-10-28T04:04:00+08:00 MemAvailable: 7267204 kB lean_procs=8 avail=  21G
+2026-10-28T04:04:20+08:00 MemAvailable: 8959084 kB lean_procs=7 avail=  21G
+2026-10-28T04:04:40+08:00 MemAvailable: 8607652 kB lean_procs=8 avail=  32G
+2026-10-28T04:05:00+08:00 MemAvailable: 7442944 kB lean_procs=8 avail=  32G
+2026-10-28T04:05:20+08:00 MemAvailable: 7681524 kB lean_procs=8 avail=  32G
+2026-10-28T04:05:40+08:00 MemAvailable: 8661480 kB lean_procs=7 avail=  32G
+2026-10-28T04:06:00+08:00 MemAvailable: 7950820 kB lean_procs=8 avail=  32G
+2026-10-28T04:06:20+08:00 MemAvailable: 7673784 kB lean_procs=7 avail=  32G
+2026-10-28T04:06:40+08:00 MemAvailable: 8722312 kB lean_procs=8 avail=  32G
+2026-10-28T04:07:00+08:00 MemAvailable: 7528012 kB lean_procs=8 avail=  32G
+2026-10-28T04:07:20+08:00 MemAvailable: 8154836 kB lean_procs=8 avail=  31G
+2026-10-28T04:07:40+08:00 MemAvailable: 8148548 kB lean_procs=8 avail=  31G
+2026-10-28T04:08:00+08:00 MemAvailable: 7748728 kB lean_procs=8 avail=  31G
+2026-10-28T04:08:21+08:00 MemAvailable: 7052384 kB lean_procs=8 avail=  31G
+2026-10-28T04:08:41+08:00 MemAvailable: 8404808 kB lean_procs=8 avail=  31G
+2026-10-28T04:09:01+08:00 MemAvailable: 8291640 kB lean_procs=8 avail=  31G
+2026-10-28T04:09:21+08:00 MemAvailable: 9302356 kB lean_procs=8 avail=  31G
+2026-10-28T04:09:41+08:00 MemAvailable: 10361356 kB lean_procs=6 avail=  30G
+2026-10-28T04:10:01+08:00 MemAvailable: 8474776 kB lean_procs=7 avail=  30G
+2026-10-28T04:10:21+08:00 MemAvailable: 7745132 kB lean_procs=8 avail=  30G
+2026-10-28T04:10:41+08:00 MemAvailable: 9069876 kB lean_procs=7 avail=  30G
+2026-10-28T04:11:01+08:00 MemAvailable: 7728396 kB lean_procs=8 avail=  30G
+2026-10-28T04:11:21+08:00 MemAvailable: 8789272 kB lean_procs=8 avail=  30G
+2026-10-28T04:11:41+08:00 MemAvailable: 7754144 kB lean_procs=8 avail=  30G
+2026-10-28T04:12:01+08:00 MemAvailable: 8370220 kB lean_procs=8 avail=  29G
+2026-10-28T04:12:21+08:00 MemAvailable: 8306296 kB lean_procs=8 avail=  29G
+2026-10-28T04:12:41+08:00 MemAvailable: 9748220 kB lean_procs=8 avail=  29G
+2026-10-28T04:13:01+08:00 MemAvailable: 8877704 kB lean_procs=7 avail=  29G
+2026-10-28T04:13:21+08:00 MemAvailable: 8949696 kB lean_procs=8 avail=  29G
+2026-10-28T04:13:41+08:00 MemAvailable: 7616312 kB lean_procs=8 avail=  29G
+2026-10-28T04:14:01+08:00 MemAvailable: 8499844 kB lean_procs=7 avail=  28G
+2026-10-28T04:14:21+08:00 MemAvailable: 9071224 kB lean_procs=7 avail=  28G
+2026-10-28T04:14:41+08:00 MemAvailable: 8545348 kB lean_procs=8 avail=  28G
+2026-10-28T04:15:01+08:00 MemAvailable: 8705252 kB lean_procs=8 avail=  28G
+2026-10-28T04:15:21+08:00 MemAvailable: 8636000 kB lean_procs=8 avail=  28G
+2026-10-28T04:15:41+08:00 MemAvailable: 7046796 kB lean_procs=8 avail=  28G
+2026-10-28T04:16:01+08:00 MemAvailable: 8333940 kB lean_procs=8 avail=  28G
+2026-10-28T04:16:22+08:00 MemAvailable: 6846032 kB lean_procs=8 avail=  28G
+2026-10-28T04:16:42+08:00 MemAvailable: 9699004 kB lean_procs=8 avail=  27G
+2026-10-28T04:17:02+08:00 MemAvailable: 9303716 kB lean_procs=8 avail=  27G
+2026-10-28T04:17:22+08:00 MemAvailable: 8263712 kB lean_procs=8 avail=  27G
+2026-10-28T04:17:42+08:00 MemAvailable: 10733592 kB lean_procs=5 avail=  27G
+2026-10-28T04:18:02+08:00 MemAvailable: 9159304 kB lean_procs=7 avail=  27G
+2026-10-28T04:18:22+08:00 MemAvailable: 9260740 kB lean_procs=7 avail=  27G
+2026-10-28T04:23:09+08:00 MemAvailable: 8559436 kB lean_procs=8 avail=  27G
+2026-10-28T04:23:29+08:00 MemAvailable: 8604892 kB lean_procs=8 avail=  26G
+2026-10-28T04:23:49+08:00 MemAvailable: 8515296 kB lean_procs=8 avail=  26G
+2026-10-28T04:24:09+08:00 MemAvailable: 8937396 kB lean_procs=8 avail=  26G
+2026-10-28T04:24:29+08:00 MemAvailable: 8231096 kB lean_procs=7 avail=  26G
+2026-10-28T04:24:49+08:00 MemAvailable: 8849304 kB lean_procs=7 avail=  26G
+2026-10-28T04:25:09+08:00 MemAvailable: 7907272 kB lean_procs=8 avail=  26G
+2026-10-28T04:25:29+08:00 MemAvailable: 9076300 kB lean_procs=6 avail=  26G
+2026-10-28T04:25:49+08:00 MemAvailable: 8280568 kB lean_procs=8 avail=  26G
+2026-10-28T04:26:09+08:00 MemAvailable: 8754700 kB lean_procs=6 avail=  26G
+2026-10-28T04:26:29+08:00 MemAvailable: 7858092 kB lean_procs=8 avail=  25G
+2026-10-28T04:26:49+08:00 MemAvailable: 8560168 kB lean_procs=8 avail=  25G
+2026-10-28T04:27:09+08:00 MemAvailable: 9559600 kB lean_procs=7 avail=  25G
+2026-10-28T04:27:29+08:00 MemAvailable: 8552908 kB lean_procs=8 avail=  25G
+2026-10-28T04:27:49+08:00 MemAvailable: 8751024 kB lean_procs=8 avail=  25G
+2026-10-28T04:28:09+08:00 MemAvailable: 6958324 kB lean_procs=8 avail=  25G
+2026-10-28T04:28:30+08:00 MemAvailable: 9513652 kB lean_procs=7 avail=  25G
+2026-10-28T04:28:50+08:00 MemAvailable: 7469792 kB lean_procs=8 avail=  25G
+2026-10-28T04:29:10+08:00 MemAvailable: 8020680 kB lean_procs=8 avail=  25G
+2026-10-28T04:29:30+08:00 MemAvailable: 6904132 kB lean_procs=8 avail=  25G
+2026-10-28T04:29:50+08:00 MemAvailable: 8191884 kB lean_procs=8 avail=  24G
+2026-10-28T04:30:10+08:00 MemAvailable: 8280792 kB lean_procs=8 avail=  24G
+2026-10-28T04:30:30+08:00 MemAvailable: 8710016 kB lean_procs=7 avail=  24G
+2026-10-28T04:30:50+08:00 MemAvailable: 7648548 kB lean_procs=8 avail=  24G
+2026-10-28T04:35:15+08:00 MemAvailable: 8146936 kB lean_procs=8 avail=  24G
+2026-10-28T04:35:35+08:00 MemAvailable: 8433456 kB lean_procs=7 avail=  24G
+2026-10-28T04:35:55+08:00 MemAvailable: 8196128 kB lean_procs=8 avail=  24G
+2026-10-28T04:36:15+08:00 MemAvailable: 8202240 kB lean_procs=8 avail=  24G
+2026-10-28T04:36:35+08:00 MemAvailable: 7909252 kB lean_procs=8 avail=  24G
+2026-10-28T04:36:55+08:00 MemAvailable: 7154496 kB lean_procs=8 avail=  24G
+2026-10-28T04:37:16+08:00 MemAvailable: 7023320 kB lean_procs=8 avail=  24G
+2026-10-28T04:37:36+08:00 MemAvailable: 8936060 kB lean_procs=7 avail=  24G
+2026-10-28T04:37:56+08:00 MemAvailable: 8306764 kB lean_procs=8 avail=  24G
+2026-10-28T04:38:16+08:00 MemAvailable: 8231692 kB lean_procs=7 avail=  24G
+2026-10-28T04:38:36+08:00 MemAvailable: 7449484 kB lean_procs=8 avail=  24G
+2026-10-28T04:38:56+08:00 MemAvailable: 8015656 kB lean_procs=8 avail=  23G
+2026-10-28T04:39:16+08:00 MemAvailable: 7378880 kB lean_procs=8 avail=  23G
+2026-10-28T04:39:36+08:00 MemAvailable: 7125344 kB lean_procs=8 avail=  23G
+2026-10-28T04:39:56+08:00 MemAvailable: 9193916 kB lean_procs=8 avail=  23G
+2026-10-28T04:40:16+08:00 MemAvailable: 7583076 kB lean_procs=8 avail=  23G
+2026-10-28T04:40:36+08:00 MemAvailable: 7646444 kB lean_procs=8 avail=  23G
+2026-10-28T04:40:56+08:00 MemAvailable: 6012096 kB lean_procs=8 avail=  23G
+2026-10-28T04:41:16+08:00 MemAvailable: 8269548 kB lean_procs=7 avail=  23G
+2026-10-28T04:41:36+08:00 MemAvailable: 8227220 kB lean_procs=8 avail=  23G
+2026-10-28T04:41:56+08:00 MemAvailable: 7999796 kB lean_procs=8 avail=  23G
+2026-10-28T04:42:16+08:00 MemAvailable: 7282708 kB lean_procs=8 avail=  23G
+2026-10-28T04:42:36+08:00 MemAvailable: 5690748 kB lean_procs=8 avail=  23G
+2026-10-28T04:42:56+08:00 MemAvailable: 8969928 kB lean_procs=7 avail=  23G
+2026-10-28T04:45:22+08:00 MemAvailable: 8294248 kB lean_procs=8 avail=  23G
+2026-10-28T04:45:42+08:00 MemAvailable: 7007492 kB lean_procs=8 avail=  23G
+2026-10-28T04:46:02+08:00 MemAvailable: 7811272 kB lean_procs=7 avail=  23G
+2026-10-28T04:46:22+08:00 MemAvailable: 9414100 kB lean_procs=7 avail=  23G
+2026-10-28T04:46:42+08:00 MemAvailable: 7568160 kB lean_procs=8 avail=  23G
+2026-10-28T04:47:02+08:00 MemAvailable: 9766964 kB lean_procs=7 avail=  22G
+2026-10-28T04:47:22+08:00 MemAvailable: 9719488 kB lean_procs=8 avail=  22G
+2026-10-28T04:47:42+08:00 MemAvailable: 9717148 kB lean_procs=8 avail=  22G
+2026-10-28T04:48:02+08:00 MemAvailable: 9337792 kB lean_procs=8 avail=  22G
+2026-10-28T04:48:22+08:00 MemAvailable: 9524224 kB lean_procs=8 avail=  22G
+2026-10-28T04:48:42+08:00 MemAvailable: 10430424 kB lean_procs=6 avail=  22G
+2026-10-28T04:49:02+08:00 MemAvailable: 10350292 kB lean_procs=8 avail=  22G
+2026-10-28T04:49:22+08:00 MemAvailable: 9669144 kB lean_procs=8 avail=  21G
+2026-10-28T04:49:42+08:00 MemAvailable: 11513464 kB lean_procs=4 avail=  21G
+2026-10-28T04:50:02+08:00 MemAvailable: 13135292 kB lean_procs=2 avail=  21G
+2026-10-28T04:50:22+08:00 MemAvailable: 13984816 kB lean_procs=0
+0 avail=  21G
+2026-10-28T04:50:42+08:00 MemAvailable: 10878340 kB lean_procs=4 avail=  21G
+2026-10-28T04:51:02+08:00 MemAvailable: 13213568 kB lean_procs=1 avail=  21G
+2026-10-28T04:51:22+08:00 MemAvailable: 9780132 kB lean_procs=6 avail=  21G
+2026-10-28T04:51:42+08:00 MemAvailable: 14113652 kB lean_procs=0
+0 avail=  21G
+2026-10-28T04:52:02+08:00 MemAvailable: 13029832 kB lean_procs=0
+0 avail=  21G
+2026-10-28T04:52:22+08:00 MemAvailable: 12455704 kB lean_procs=0
+0 avail=  21G
+2026-10-28T04:52:42+08:00 MemAvailable: 11598512 kB lean_procs=0
+0 avail=  21G
+2026-10-28T04:53:02+08:00 MemAvailable: 12806592 kB lean_procs=0
+0 avail=  21G
+2026-10-28T04:59:23+08:00 MemAvailable: 12785048 kB lean_procs=0
+0 avail=  21G
+2026-10-28T04:59:43+08:00 MemAvailable: 10629792 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:00:03+08:00 MemAvailable: 11661720 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:00:23+08:00 MemAvailable: 11648236 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:00:43+08:00 MemAvailable: 11639672 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:01:03+08:00 MemAvailable: 11642644 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:01:23+08:00 MemAvailable: 11649284 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:01:43+08:00 MemAvailable: 11288168 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:02:03+08:00 MemAvailable: 11616332 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:02:23+08:00 MemAvailable: 11632132 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:02:43+08:00 MemAvailable: 11623528 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:03:03+08:00 MemAvailable: 11618864 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:03:23+08:00 MemAvailable: 11615308 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:03:43+08:00 MemAvailable: 11609764 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:04:03+08:00 MemAvailable: 11440940 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:04:23+08:00 MemAvailable: 11602664 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:04:43+08:00 MemAvailable: 11584944 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:05:03+08:00 MemAvailable: 11557256 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:05:23+08:00 MemAvailable: 11593212 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:05:43+08:00 MemAvailable: 11549624 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:06:03+08:00 MemAvailable: 11480188 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:06:23+08:00 MemAvailable: 11546988 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:06:43+08:00 MemAvailable: 11523040 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:07:03+08:00 MemAvailable: 11613120 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:09:29+08:00 MemAvailable: 11614128 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:09:49+08:00 MemAvailable: 11390776 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:10:09+08:00 MemAvailable: 11584580 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:10:29+08:00 MemAvailable: 11572968 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:10:49+08:00 MemAvailable: 11591032 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:11:09+08:00 MemAvailable: 11573192 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:11:29+08:00 MemAvailable: 11569036 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:11:49+08:00 MemAvailable: 11193708 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:12:09+08:00 MemAvailable: 11336820 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:12:29+08:00 MemAvailable: 11498740 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:12:49+08:00 MemAvailable: 10937204 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:13:09+08:00 MemAvailable: 11528096 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:13:29+08:00 MemAvailable: 11508696 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:13:49+08:00 MemAvailable: 11522248 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:14:09+08:00 MemAvailable: 11396324 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:14:29+08:00 MemAvailable: 11533384 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:14:49+08:00 MemAvailable: 11548612 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:15:09+08:00 MemAvailable: 11151660 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:15:29+08:00 MemAvailable: 11532124 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:15:49+08:00 MemAvailable: 11533516 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:16:09+08:00 MemAvailable: 11358428 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:16:29+08:00 MemAvailable: 11506140 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:16:49+08:00 MemAvailable: 11537324 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:21:58+08:00 MemAvailable: 11588972 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:22:18+08:00 MemAvailable: 11097612 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:22:38+08:00 MemAvailable: 11444152 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:22:58+08:00 MemAvailable: 11528220 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:23:18+08:00 MemAvailable: 11536284 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:23:38+08:00 MemAvailable: 11545488 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:23:58+08:00 MemAvailable: 11559836 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:24:18+08:00 MemAvailable: 11439120 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:24:38+08:00 MemAvailable: 11259460 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:24:58+08:00 MemAvailable: 11541204 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:25:18+08:00 MemAvailable: 11572824 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:25:38+08:00 MemAvailable: 11576224 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:25:58+08:00 MemAvailable: 11566320 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:26:18+08:00 MemAvailable: 11558208 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:26:38+08:00 MemAvailable: 11355780 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:26:58+08:00 MemAvailable: 11552420 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:27:18+08:00 MemAvailable: 11543080 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:27:38+08:00 MemAvailable: 11521708 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:27:58+08:00 MemAvailable: 11485668 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:28:18+08:00 MemAvailable: 11537096 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:28:38+08:00 MemAvailable: 11333592 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:28:58+08:00 MemAvailable: 11524632 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:29:18+08:00 MemAvailable: 11526228 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:34:06+08:00 MemAvailable: 11471172 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:34:26+08:00 MemAvailable: 11272032 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:34:46+08:00 MemAvailable: 11538548 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:35:07+08:00 MemAvailable: 11570560 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:35:27+08:00 MemAvailable: 11557384 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:35:47+08:00 MemAvailable: 11560544 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:36:07+08:00 MemAvailable: 11505952 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:36:27+08:00 MemAvailable: 11221856 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:36:47+08:00 MemAvailable: 11551784 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:37:07+08:00 MemAvailable: 11544324 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:37:27+08:00 MemAvailable: 11535256 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:37:47+08:00 MemAvailable: 10934968 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:38:07+08:00 MemAvailable: 11467344 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:38:27+08:00 MemAvailable: 11403796 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:38:47+08:00 MemAvailable: 10307512 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:39:07+08:00 MemAvailable: 11263472 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:39:27+08:00 MemAvailable: 10265660 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:39:47+08:00 MemAvailable: 11531440 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:40:07+08:00 MemAvailable: 11373308 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:40:27+08:00 MemAvailable: 11496412 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:40:47+08:00 MemAvailable: 10307452 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:41:07+08:00 MemAvailable: 11549816 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:41:27+08:00 MemAvailable: 11551100 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:41:47+08:00 MemAvailable: 11542728 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:42:07+08:00 MemAvailable: 11539004 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:42:27+08:00 MemAvailable: 11565024 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:42:47+08:00 MemAvailable: 11465696 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:43:07+08:00 MemAvailable: 11522176 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:43:27+08:00 MemAvailable: 11576656 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:43:47+08:00 MemAvailable: 11562844 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:44:07+08:00 MemAvailable: 11565936 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:44:27+08:00 MemAvailable: 11561292 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:44:47+08:00 MemAvailable: 11524932 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:45:07+08:00 MemAvailable: 11383312 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:45:27+08:00 MemAvailable: 11569096 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:45:47+08:00 MemAvailable: 11503100 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:46:07+08:00 MemAvailable: 11540852 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:46:27+08:00 MemAvailable: 11563664 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:46:47+08:00 MemAvailable: 11568064 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:47:07+08:00 MemAvailable: 11429896 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:51:32+08:00 MemAvailable: 11435288 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:51:52+08:00 MemAvailable: 11280336 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:52:12+08:00 MemAvailable: 11599700 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:52:32+08:00 MemAvailable: 11593600 kB lean_procs=0
+0 avail=  21G
+2026-10-28T05:52:52+08:00 MemAvailable: 11592908 kB lean_procs=0
+0 avail=  21G

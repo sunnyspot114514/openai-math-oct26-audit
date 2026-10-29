@@ -1,0 +1,2 @@
+start=2026-10-29T02:19:51+08:00 tag=r1 LEAN_NUM_THREADS=1 bulk +OAI.Algorithms.SubexponentialSAT.Main
+end=2026-10-29T08:16:34+08:00 exit_code=0

@@ -1,0 +1,1 @@
+attempt5: wrapper auto-started after attempt4 OOM; killed by auditor at 11:00 Asia/Shanghai per stop-on-OOM order

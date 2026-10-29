@@ -1,0 +1,5 @@
+Command shimmed: /home/mathaudit/bin/restrict-af-unix bash -c lake env /home/mathaudit/bin/comparator ComparatorChallenges/SubexponentialSAT.json
+ExitStatusFake=pending
+2026-10-29T08:19:01+08:00
+Exit status: 0
+2026-10-29T08:53:13+08:00

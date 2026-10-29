@@ -1,0 +1,2 @@
+start=2026-10-28T09:14:57+08:00 attempt=4 no_wrapper original_lean
+end=2026-10-28T10:57:22+08:00 exit_code=1

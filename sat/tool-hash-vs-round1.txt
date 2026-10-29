@@ -1,0 +1,8 @@
+round1_from=/workspace/openai-math-audit-oct26/common/setup.log
+post_wipe_setup=/home/mathaudit/aud/setup/setup.log SETUP_OK 2026-10-29T02:04:38+08:00
+comparator afa65e57a1770f5961efe7681626a9a1cd99705262421658abd30b705f66e4a2 MATCH
+landrun    c41d19ff16b6529bb9211babde3529c087df2f2f02267a7c7310a0c59e76966e MATCH
+nanoda_bin af265c649d7c5c329e1d18bcca0ad865f3e6b463f841693024eed92a16179bcf MATCH
+restrict   058b980012a18d668206d3c8b0d5df738cfebb1933efd0a1d411435a2fd3fe78 MATCH
+lean4export 8c5d64ba68f4d3a68b3bcb7e1c5f188e35ae573b29470b8d4530a62324c9ddd1 (round1 also present in post-wipe setup.log)
+time_shim  /usr/bin/time is bash shim (not GNU time); documents wall/exit only

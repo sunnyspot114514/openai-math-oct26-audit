@@ -1,0 +1,7 @@
+removing challenge build outputs before attempt 2:
+.lake/build/lib/lean/ComparatorChallenges
+.lake/build/lib/lean/ComparatorChallenges/LocalSmoothing.olean.hash
+.lake/build/lib/lean/ComparatorChallenges/LocalSmoothing.olean
+.lake/build/lib/lean/ComparatorChallenges/LocalSmoothing.ilean.hash
+.lake/build/lib/lean/ComparatorChallenges/LocalSmoothing.trace
+.lake/build/lib/lean/ComparatorChallenges/LocalSmoothing.ilean

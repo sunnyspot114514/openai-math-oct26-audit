@@ -1,0 +1,7 @@
+2026-10-29T02:19:51+08:00 attempt6 bulk LEAN_NUM_THREADS=1; OOM→alone→temp swap; no source edits; post-wipe fresh tree
+2026-10-29T02:23:22+08:00 tool hashes vs round1 MATCH (comparator/landrun/nanoda/restrict/lean4export); /usr/bin/time=bash shim post-wipe
+2026-10-29T08:18:29+08:00 integrity-diff-prebuild lines=22 (script died on sudo-wc redirect perms for box)
+2026-10-29T08:18:29+08:00 integrity oleans-only lines=0; no-*.hash lines=0 — only volatile mathlib *.olean.{server,private}.hash (5) + new proofwidgets package-lock.json.hash; packages oleans unchanged
+2026-10-29T08:18:29+08:00 continuing Comparator+axcheck+nanoda manually after bulk SUCCESS (no OOM retries needed)
+2026-10-29T09:28:39+08:00 nanoda rc=1: 'nanoda kernel rejected the solution' + stderr stack overflow (thread_1 overflowed; nanoda exit 134); Lean default kernel still accepts after nanoda fail
+2026-10-29T09:28:39+08:00 no OOM during bulk r1 (LEAN_NUM_THREADS=1); HighQueryProgram/Setup/Loop/Traversal built OK; no alone retries; no /swapfile3

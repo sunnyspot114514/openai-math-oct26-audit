@@ -1,0 +1,18 @@
+2026-10-28T06:58:17+08:00 start target=sat json=SubexponentialSAT
+2026-10-28T06:59:01+08:00 cache get
+2026-10-28T07:01:35+08:00 comparator run
+2026-10-28T08:53:30+08:00 comparator done rc=1
+2026-10-28T08:53:31+08:00 STOP: comparator rc=1
+2026-10-28T09:04:50+08:00 attempt1 OOM: HighQueryLoop Lean 137; lean wrapper fixed (LEAN_NUM_THREADS=1); starting resume attempt 2+
+2026-10-28T09:04:50+08:00 [resume-oom] baseline after attempt1 (HighQueryLoop OOM 137)
+2026-10-28T09:05:22+08:00 attempt 2 (OOM resume, lean wrapper LEAN_NUM_THREADS=1)
+2026-10-28T09:05:37+08:00 attempt 2 rc=1
+2026-10-28T09:05:37+08:00 ABORT: non-OOM failure attempt 2 rc=1
+2026-10-28T09:08:48+08:00 attempt2 failed: shell lean wrapper not executable under landrun (env). Switched to C wrapper. continuing attempt 3+
+2026-10-28T09:08:48+08:00 attempt 3 (OOM resume, C lean wrapper LEAN_NUM_THREADS=1)
+2026-10-28T09:14:44+08:00 attempt3 aborted: C lean wrapper caused broad rebuild (toolchain binary change). Restored original lean. attempt4+
+2026-10-28T09:14:57+08:00 integrity before attempt4 lines=0 (expect 0; packages only)
+2026-10-28T09:14:57+08:00 attempt 4 (OOM resume, original lean, fewer remaining modules)
+2026-10-28T10:57:22+08:00 attempt 4 rc=1
+2026-10-28T10:57:46+08:00 integrity diff lines=0
+2026-10-28T10:57:46+08:00 attempt 5 (OOM resume, original lean, fewer remaining modules)

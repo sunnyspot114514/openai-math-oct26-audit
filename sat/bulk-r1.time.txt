@@ -1,0 +1,5 @@
+Command shimmed: /home/mathaudit/bin/restrict-af-unix /home/mathaudit/bin/landrun --best-effort --unrestricted-filesystem -ldd -add-exec --ignore-missing --env PATH --env HOME --env LEAN_NUM_THREADS --env ELAN_HOME --env LANG --env USER -- bash -c cd '/home/mathaudit/aud/sat/math/lean' && lake build '+OAI.Algorithms.SubexponentialSAT.Main'
+ExitStatusFake=pending
+2026-10-29T02:19:51+08:00
+Exit status: 0
+2026-10-29T08:16:32+08:00

@@ -1,0 +1,19 @@
+uid=1001(mathaudit) gid=1001(mathaudit) groups=1001(mathaudit)
+2026-10-27T18:03:44+08:00
+## landrun: write outside allowed
+/bin/sh: 1: cannot create /home/mathaudit/aud/lr_test: Permission denied
+rc=2
+## landrun: write inside --rwx
+rc=0
+## landrun: tcp connect
+curl: (7) Failed to connect to github.com port 443 after 0 ms: Could not connect to server
+rc=7
+## restrict-af-unix
+AF_UNIX blocked: [Errno 97] Address family not supported by protocol
+NoNewPrivs:	1
+Seccomp:	2
+Seccomp_filters:	1
+## creds reachability
+ls: cannot open directory '/home/box': Permission denied
+ls: cannot open directory '/root': Permission denied
+ls: cannot open directory '/workspace': Permission denied

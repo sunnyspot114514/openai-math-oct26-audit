@@ -1,0 +1,1 @@
+non-OOM failure in attempt 2 (rc=1); if killed by disk floor, stop cleanly

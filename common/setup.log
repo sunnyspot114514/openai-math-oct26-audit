@@ -1,0 +1,49 @@
+2026-10-27T17:48:39+08:00
+uid=1001(mathaudit) gid=1001(mathaudit) groups=1001(mathaudit)
+42b94d4244e8353142c456ec0e4ca6528fd898a6c604d4059f494e706e431f63  elan.tgz
+info: default toolchain set to 'leanprover/lean4:v4.34.1'
+elan 4.2.4 (227caca13 2026-08-25)
+warning: could not canonicalize path: '/home/mathaudit/.elan/toolchains'
+warning: could not canonicalize path: '/home/mathaudit/.elan/toolchains'
+warning: could not canonicalize path: '/home/mathaudit/.elan/toolchains'
+info: downloading https://releases.lean-lang.org/lean4/v4.34.1/lean-4.34.1-linux.tar.zst
+info: installing /home/mathaudit/.elan/toolchains/leanprover--lean4---v4.34.1
+Lean (version 4.34.1, x86_64-unknown-linux-gnu, commit 5045d0056413266e57c625dcd7c365b10e377c52, Release)
+Lake version 5.0.0-src+5045d00 (Lean version 4.34.1)
+e8baaa71855a616dc351028f3ad2200051b0671f423a1696a100e809302d5550  /home/mathaudit/.elan/toolchains/leanprover--lean4---v4.34.1/bin/lean
+go: downloading github.com/urfave/cli/v3 v3.6.2
+go: downloading github.com/landlock-lsm/go-landlock v0.9.0
+go: downloading golang.org/x/sys v0.40.0
+go: downloading kernel.org/pub/linux/libs/security/libcap/psx v1.2.77
+info: lean4export: cloning https://github.com/leanprover/lean4export
+info: lean4export: checking out revision '076e8e57707e813375e8f9da8bf989799ace9680'
+✔ [4/21] Built Comparator.Util (920ms)
+✔ [5/21] Built Comparator.Util:c.o (142ms)
+✔ [6/21] Built Export.Parse (2.3s)
+✔ [7/21] Built Comparator.Axioms (1.1s)
+✔ [8/21] Built Export (3.5s)
+✔ [9/21] Built Comparator.Axioms:c.o (284ms)
+✔ [10/21] Built Comparator.Compare (769ms)
+✔ [11/21] Built Comparator.Compare:c.o (349ms)
+✔ [12/21] Built Comparator (403ms)
+✔ [13/21] Built Comparator:c.o (58ms)
+✔ [14/21] Built Main (1.5s)
+✔ [15/21] Built Main:c.o (175ms)
+✔ [16/21] Built Export.Parse:c.o (3.4s)
+✔ [17/21] Built Export:c.o (2.6s)
+✔ [18/21] Built Main (1.8s)
+✔ [19/21] Built Main:c.o (984ms)
+✔ [20/21] Built lean4export:exe (3.5s)
+✔ [21/21] Built comparator:exe (3.3s)
+Build completed successfully (21 jobs).
+076e8e57707e813375e8f9da8bf989799ace9680
+3a2407216ee84a75f9e1aead6803d0578be06ae7
+   Compiling num-bigint v0.5.1
+   Compiling nanoda_lib v0.4.19 (/home/mathaudit/tools/nanoda_lib)
+    Finished `release` profile [optimized] target(s) in 33.74s
+afa65e57a1770f5961efe7681626a9a1cd99705262421658abd30b705f66e4a2  /home/mathaudit/bin/comparator
+c41d19ff16b6529bb9211babde3529c087df2f2f02267a7c7310a0c59e76966e  /home/mathaudit/bin/landrun
+8c5d64ba68f4d3a68b3bcb7e1c5f188e35ae573b29470b8d4530a62324c9ddd1  /home/mathaudit/bin/lean4export
+af265c649d7c5c329e1d18bcca0ad865f3e6b463f841693024eed92a16179bcf  /home/mathaudit/bin/nanoda_bin
+058b980012a18d668206d3c8b0d5df738cfebb1933efd0a1d411435a2fd3fe78  /home/mathaudit/bin/restrict-af-unix
+SETUP_OK 2026-10-27T17:50:29+08:00

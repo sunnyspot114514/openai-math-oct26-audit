@@ -1,0 +1,1 @@
+axcheck2 exit=0

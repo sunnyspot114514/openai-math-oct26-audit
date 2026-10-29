@@ -1,0 +1,60 @@
+Building ComparatorChallenges.SubexponentialSAT
+⚠ [8924/8924] Built ComparatorChallenges.SubexponentialSAT (5.8s)
+warning: ComparatorChallenges/SubexponentialSAT.lean:194:8: declaration uses `sorry`
+Build completed successfully (8924 jobs).
+Exporting #[Quot, Quot.mk, Quot.lift, Quot.ind, OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.exact_count_and_sat, propext, Quot.sound, Classical.choice, Nat.add, Nat.sub, Nat.mul, Nat.pow, Nat.gcd, Nat.div, Nat.mod, Nat.beq, Nat.ble, Nat.land, Nat.lor, Nat.xor, Nat.shiftLeft, Nat.shiftRight, String.ofList, Char.ofNat, List, eagerReduce, Nat, String, String.mk, Char, optParam, autoParam, semiOutParam, outParam] from ComparatorChallenges.SubexponentialSAT
+Building OAI.Algorithms.SubexponentialSAT.Main
+ℹ [9527/9724] Replayed OAI.Algorithms.SubexponentialSAT.SqrtLog.SquarefreeKeyMapProgram
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/SquarefreeKeyMapProgram.lean:537:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.Squarefree.KeyMapProgram.native_map_trace' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/SquarefreeKeyMapProgram.lean:538:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.Squarefree.KeyMapProgram.mapped_eq_filter_map' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+ℹ [9551/9724] Replayed OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafStatisticsProgramAudit
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafStatisticsProgramAudit.lean:9:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafStatisticsProgram.program_primitive' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafStatisticsProgramAudit.lean:10:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafStatisticsProgram.Arity.program_primitive' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafStatisticsProgramAudit.lean:11:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafStatisticsProgram.Finalize.program_runsIn' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafStatisticsProgramAudit.lean:12:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafStatisticsProgram.Binary.lifted_eval' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+ℹ [9566/9724] Replayed OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafStatisticsProgramPositivity
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafStatisticsProgramPositivity.lean:59:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafStatisticsProgram.arity_pos_of_free_pos' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+ℹ [10628/10771] Replayed OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontendExact
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafQueryFrontendExact.lean:89:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontend.frontend_eval_with_inputLengths' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+ℹ [10655/10771] Replayed OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontendReplay
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafQueryFrontendReplay.lean:179:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontend.frontend_avoids_outerCarried' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafQueryFrontendReplay.lean:180:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafQueryFrontend.frontend_eval_rebase_outerCarried' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+ℹ [10656/10771] Replayed OAI.Algorithms.SubexponentialSAT.SqrtLog.PackingCallerProgramReplay
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/PackingCallerProgramReplay.lean:77:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.PackingCallerProgram.Replay.command_avoids' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/PackingCallerProgramReplay.lean:78:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.PackingCallerProgram.Replay.replay' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+ℹ [11154/11167] Replayed OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafParametersProgramSerializationBounds
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafParametersProgramSerializationBounds.lean:63:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafParametersProgram.Serialization.guarded_lengths_le' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+info: OAI/Algorithms/SubexponentialSAT/SqrtLog/LeafParametersProgramSerializationBounds.lean:64:0: 'OAI.Algorithms.SubexponentialSAT.SqrtLog.LeafParametersProgram.Serialization.uniform_guarded_lengths_polynomial' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+✖ [12002/12014] Building OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQuerySetup (95s)
+trace: .> LEAN_PATH=/home/mathaudit/aud/sat/math/lean/.lake/packages/MD4Lean/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/BibtexQuery/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/UnicodeBasic/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/Cli/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/leansqlite/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/batteries/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/Qq/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/aesop/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/importGraph/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/plausible/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/fixed-point-theorems/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/Zeta3Irrational/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/rellich-kondrachov/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/carleson/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/StrongPNT/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/AbsorptionCutoff/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/AINTLIB/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/ClassFieldTheory/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/schoenflies-lean/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/SphereEversion/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/TauCeti/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/gromov/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/iut/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/tate-curves-theta/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/genl/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/heights/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/pi1/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/orbicurve-cores/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/oka/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/tempered-fundamental-groups/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/elliptic-curves/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/formal-schemes/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/belyi/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/PrimeNumberTheoremAnd/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/leancert/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/LeanArchitect/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/PrimeCert/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/doc-gen4/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/checkdecls/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/packages/mathlib/.lake/build/lib/lean:/home/mathaudit/aud/sat/math/lean/.lake/build/lib/lean /home/mathaudit/.elan/toolchains/leanprover--lean4---v4.34.1/bin/lean /home/mathaudit/aud/sat/math/lean/OAI/Algorithms/SubexponentialSAT/SqrtLogSpace/HighQuerySetup.lean -o /home/mathaudit/aud/sat/math/lean/.lake/build/lib/lean/OAI/Algorithms/SubexponentialSAT/SqrtLogSpace/HighQuerySetup.olean -i /home/mathaudit/aud/sat/math/lean/.lake/build/lib/lean/OAI/Algorithms/SubexponentialSAT/SqrtLogSpace/HighQuerySetup.ilean -c /home/mathaudit/aud/sat/math/lean/.lake/build/ir/OAI/Algorithms/SubexponentialSAT/SqrtLogSpace/HighQuerySetup.c --setup /home/mathaudit/aud/sat/math/lean/.lake/build/ir/OAI/Algorithms/SubexponentialSAT/SqrtLogSpace/HighQuerySetup.setup.json --json
+error: Lean exited with code 143
+Some required targets logged failures:
+- OAI.Algorithms.SubexponentialSAT.SqrtLogSpace.HighQuerySetup

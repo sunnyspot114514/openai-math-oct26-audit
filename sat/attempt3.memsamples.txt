@@ -1,0 +1,21 @@
+2026-10-28T09:08:48+08:00 MemAvailable: 14235268 kB lean_procs=0
+0 avail=  31G
+2026-10-28T09:09:03+08:00 MemAvailable: 11766716 kB lean_procs=1 avail=  31G
+2026-10-28T09:09:18+08:00 MemAvailable: 12114240 kB lean_procs=0
+0 avail=  31G
+2026-10-28T09:09:33+08:00 MemAvailable: 6896136 kB lean_procs=8 avail=  31G
+2026-10-28T09:09:48+08:00 MemAvailable: 6560680 kB lean_procs=8 avail=  31G
+2026-10-28T09:10:03+08:00 MemAvailable: 8764560 kB lean_procs=5 avail=  31G
+2026-10-28T09:10:18+08:00 MemAvailable: 9896412 kB lean_procs=8 avail=  31G
+2026-10-28T09:10:33+08:00 MemAvailable: 7994756 kB lean_procs=8 avail=  31G
+2026-10-28T09:10:48+08:00 MemAvailable: 10697636 kB lean_procs=6 avail=  30G
+2026-10-28T09:11:03+08:00 MemAvailable: 9217804 kB lean_procs=8 avail=  30G
+2026-10-28T09:11:18+08:00 MemAvailable: 8307428 kB lean_procs=8 avail=  30G
+2026-10-28T09:11:33+08:00 MemAvailable: 8569256 kB lean_procs=7 avail=  30G
+2026-10-28T09:11:48+08:00 MemAvailable: 9191364 kB lean_procs=8 avail=  30G
+2026-10-28T09:12:03+08:00 MemAvailable: 8613220 kB lean_procs=8 avail=  30G
+2026-10-28T09:12:19+08:00 MemAvailable: 8962200 kB lean_procs=7 avail=  30G
+2026-10-28T09:12:34+08:00 MemAvailable: 8978916 kB lean_procs=8 avail=  30G
+2026-10-28T09:14:06+08:00 MemAvailable: 8231060 kB lean_procs=7 avail=  29G
+2026-10-28T09:14:21+08:00 MemAvailable: 8462880 kB lean_procs=7 avail=  29G
+2026-10-28T09:14:36+08:00 MemAvailable: 7549120 kB lean_procs=8 avail=  29G

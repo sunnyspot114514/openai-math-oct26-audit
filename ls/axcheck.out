@@ -1,0 +1,1 @@
+/home/mathaudit/aud/ls/ax/Ax.lean:1:0: error: import OAI.Analysis.Fourier.LocalSmoothing.Comparator failed, environment already contains 'OAI.Analysis.Fourier.LocalSmoothing.Comparator.observationMeasure' from ComparatorChallenges.LocalSmoothing

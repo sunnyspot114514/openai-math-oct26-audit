@@ -1,0 +1,22 @@
+46297c46297
+< 570e877264b3296e9673ca35d5cdb90cf8c550d10fc46ef327865d60d5f030e4  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/Field/Defs.olean.server.hash
+---
+> 004e1b6cce2671ae3f0a3f8e64772b790656a5f12ea04aca06b7eba23e1adcc7  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Algebra/Field/Defs.olean.server.hash
+86322c86322
+< dce3d59bb2a242ee41c4365736f6b9d9498aac8f36141d0222b5e3393d3ac4f7  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/CategoryTheory/Presentable/SharplyLT/Lemmas.olean.private.hash
+---
+> f07c71002144b9c41654fe110275235a27b23d53bfd02a906449981cc5ab8472  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/CategoryTheory/Presentable/SharplyLT/Lemmas.olean.private.hash
+103393c103393
+< 1fcb15056d55280251de965c1a500dff8f745d2f03964e032efed88390540258  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Geometry/Convex/Cone/DualFinite.olean.server.hash
+---
+> 81b334d30847532b3257aad20d02fcd24419c97665c675279fc77af1d22db6ba  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/Geometry/Convex/Cone/DualFinite.olean.server.hash
+119446c119446
+< 3944193156d87e1c527e11a94a5cb64e97c7915a3fcddfdbb91a67f3be7952e2  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LSeries/Convergence.olean.private.hash
+---
+> 50340f74438c9cf139f24e327b5b4774b38f2f960ec15881f5d87b1b888571f8  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/NumberTheory/LSeries/Convergence.olean.private.hash
+135893c135893
+< 125397bf79e16003831537734ae45b562c102274a6ce465d57e262c22f5fdc38  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/SimpleModule/InjectiveProjective.olean.server.hash
+---
+> ac68b9b4602826f4dad60d0da814b0fefa7fb39004611e600970ed8a7592bd6e  .lake/packages/mathlib/.lake/build/lib/lean/Mathlib/RingTheory/SimpleModule/InjectiveProjective.olean.server.hash
+163709a163710
+> 971a4e08a78d3b185902cde49867376deb03135a517d4380eb1cb6604cfcb38b  .lake/packages/proofwidgets/widget/package-lock.json.hash

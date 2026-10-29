@@ -1,0 +1,2 @@
+start=2026-10-28T09:05:22+08:00 attempt=2 LEAN_NUM_THREADS_wrapper=1
+end=2026-10-28T09:05:37+08:00 exit_code=1

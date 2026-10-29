@@ -1,0 +1,15 @@
+date_start=2026-10-27T18:56:39+08:00
+cwd=/home/mathaudit/aud/ls/math/lean
+id=uid=1001(mathaudit) gid=1001(mathaudit) groups=1001(mathaudit)
+HOME=/home/mathaudit
+LANG=C.UTF-8
+LOGNAME=mathaudit
+OLDPWD=/home/mathaudit/aud/ls/math
+PATH=/home/mathaudit/.elan/bin:/home/mathaudit/go/bin:/home/mathaudit/bin:/usr/local/bin:/usr/bin:/bin
+PWD=/home/mathaudit/aud/ls/math/lean
+SHELL=/bin/bash
+SHLVL=2
+USER=mathaudit
+_=/usr/bin/env
+--- command ---
+COMPARATOR_LANDRUN=/home/mathaudit/bin/landrun COMPARATOR_LEAN4EXPORT=/home/mathaudit/bin/lean4export /home/mathaudit/bin/restrict-af-unix bash -c 'lake env /home/mathaudit/bin/comparator ComparatorChallenges/LocalSmoothing.json'

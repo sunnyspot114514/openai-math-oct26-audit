@@ -1,0 +1,10 @@
+7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a
+0
+commit 7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a
+Merge: 1581d4cbd 42907c9e9
+Author: dr-openai <169832560+dr-openai@users.noreply.github.com>
+Date:   Mon Oct 26 14:18:03 2026 -0700
+
+    Merge pull request #3 from openai/codex/update-10-26
+    
+    Update math/cs papers, formalizations, and verification data
