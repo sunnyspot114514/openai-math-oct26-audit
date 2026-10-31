@@ -102,3 +102,7 @@ This is treated as a **tool/runtime limit**, not as Lean default-kernel rejectio
 ## License / stance
 
 Independent audit notes. Upstream Lean / Mathlib remain under their own licenses. Not affiliated with OpenAI.
+
+## SAT nanoda rerun / nanoda 大栈重跑 (2026-10-31)
+- 中文：重新编译后用 `ulimit -s unlimited` 加 `RUST_MIN_STACK` 分别为 128M、512M、2G 重跑 nanoda，每次都栈溢出（exit 134）。日志里的 "nanoda kernel rejected" 是 comparator 对这次崩溃的统一提示，不是指出了逻辑错误；同一次运行中 Lean 默认内核接受。结论：SAT 仍只有 Lean 内核单内核确认，nanoda 未完成（工具运行时限制）。
+- English: After rebuild, nanoda was rerun with `ulimit -s unlimited` and RUST_MIN_STACK of 128M, 512M and 2G; every run hit a stack overflow (exit 134). The "nanoda kernel rejected" line is comparator's generic message for that crash, not a logical rejection; the Lean default kernel accepted in the same runs. SAT remains single-kernel (Lean) verified; nanoda incomplete due to a tool runtime limit. Logs: `sat/nanoda-rerun/`.

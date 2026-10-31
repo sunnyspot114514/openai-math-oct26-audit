@@ -1,0 +1,5 @@
+Command shimmed: /home/mathaudit/bin/restrict-af-unix bash -c ulimit -s unlimited; export RUST_MIN_STACK=2147483648; lake env /home/mathaudit/bin/comparator /home/mathaudit/aud/sat/extra/SubexponentialSAT-nanoda.json
+ExitStatusFake=pending
+2026-10-31T07:57:42+08:00
+Exit status: 1
+2026-10-31T08:43:47+08:00

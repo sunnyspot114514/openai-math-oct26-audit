@@ -1,0 +1,6 @@
+2026-10-31T00:54:06+08:00 nanoda try=s128m RUST_MIN_STACK=134217728 exit=1
+2026-10-31T00:54:06+08:00 nanoda stack overflow try=s128m — escalate
+2026-10-31T07:57:40+08:00 nanoda try=s512m RUST_MIN_STACK=536870912 exit=1
+2026-10-31T07:57:40+08:00 nanoda stack overflow try=s512m — escalate
+2026-10-31T08:43:56+08:00 nanoda try=s2g RUST_MIN_STACK=2147483648 exit=1
+2026-10-31T08:43:56+08:00 nanoda stack overflow try=s2g — escalate

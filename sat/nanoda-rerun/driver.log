@@ -1,0 +1,11 @@
+2026-10-29T22:00:07+08:00 clone
+2026-10-29T22:00:43+08:00 checkout OK 7ef5c0cc5ca4b0e072b7a050fca09ab24bc6fa3a
+2026-10-29T22:00:43+08:00 cache get
+2026-10-29T22:03:01+08:00 cache oleans=8926
+2026-10-29T22:03:01+08:00 BULK lake build +OAI.Algorithms.SubexponentialSAT.Main tag=r1 lean_n=0 MemAvail_kB=13974028 free=37G
+2026-10-31T00:03:41+08:00 BULK SUCCESS
+2026-10-31T00:03:46+08:00 nanoda try=s128m RUST_MIN_STACK=134217728 ulimit_s=unlimited
+2026-10-31T00:54:07+08:00 nanoda try=s512m RUST_MIN_STACK=536870912 ulimit_s=unlimited
+2026-10-31T07:57:42+08:00 nanoda try=s2g RUST_MIN_STACK=2147483648 ulimit_s=unlimited
+2026-10-31T08:43:56+08:00 nanoda ultimately FAILED after escalation
+2026-10-31T08:44:00+08:00 SAT_NANODA_DONE

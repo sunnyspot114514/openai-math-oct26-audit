@@ -1,0 +1,2 @@
+start=2026-10-31T07:57:42+08:00 try=s2g RUST_MIN_STACK=2147483648 ulimit_s=unlimited LEAN_NUM_THREADS=1
+end=2026-10-31T08:43:56+08:00 exit_code=1

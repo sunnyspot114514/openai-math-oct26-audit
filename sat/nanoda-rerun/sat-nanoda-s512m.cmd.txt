@@ -1,0 +1,2 @@
+start=2026-10-31T00:54:07+08:00 try=s512m RUST_MIN_STACK=536870912 ulimit_s=unlimited LEAN_NUM_THREADS=1
+end=2026-10-31T07:57:40+08:00 exit_code=1

@@ -1,0 +1,5 @@
+label=s128m
+RUST_MIN_STACK=134217728
+ulimit -s unlimited
+cmd: restrict-af-unix bash -c 'ulimit -s unlimited; export RUST_MIN_STACK=134217728; lake env comparator .../SubexponentialSAT-nanoda.json'
+exit=1
